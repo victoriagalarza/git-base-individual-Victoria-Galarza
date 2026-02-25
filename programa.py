@@ -1,2 +1,2 @@
-A = 1
+A = 2
 print('Valor:', A)
