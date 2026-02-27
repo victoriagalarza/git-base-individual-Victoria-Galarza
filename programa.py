@@ -1,2 +1,2 @@
 A = 2
-print('Valor:', A)
+print('Nuevo valor:', A)
